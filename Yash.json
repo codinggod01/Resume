@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "Yash Bijarnia",
+		"label": "Student",
+		
+		"phone": "9783525503",
+		"website": "yashbijarnia.github.io",
+		"summary": "Hi, I'm Yash. Currently doing B.Tech at IIIT Kota in Computer Science department. My technical skills is frontend and backend development, Intermediate in Compititive Programming, Good at data structures and algorithms. I am well versed in python and some of its libraries",
+		"location": {
+			"address": "P-1 Narayan Vihar, behind Swastik Hospital, Ajmer Road, Jaipur",
+			"postalCode": "302020",
+			"city": "Jaipur",
+			"countryCode": "91",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "codimggod01",
+				"url": "https://www.github.com/codinggod01/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Yash Bijarnia",
+				"url": "https://www.linkedin.com/in/yash-bijarnia-b310161b8"
+
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "01-08-2019",
+		"endDate": "01-07-2023",
+		"gpa": "7.62",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [
+        {
+            
+        {
+            "level": "Intermediate",
+            "keywords": ["HTML5","CSS","Python","BootStrap","SQL"]
+	    },
+        {
+            "level": "Beginner",
+            "keywords": ["Python","Java"]
+	    }
+    ],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Table Tennis"]
+	}],
+	"references": []
+}
